@@ -60,7 +60,7 @@ App Link- [https://omegaconstant-the-schelling-model-of-segregation-file-wkvya9.
           <br/><br/>
           Population = 5000<br/>
           Empty House Ratio = 0.25<br/>
-          Similarity Threshold = <strong>0.80</strong><br/>
+          Similarity Threshold = <strong>0.70</strong><br/>
           No. of iterations = 20<br/>![similarityThesholdB](https://user-images.githubusercontent.com/83154020/178945706-0f38fb9b-b38b-45cb-abba-fa0d8e01ffef.png)
           <br/><br/>
       4. <strong>Number of iterations</strong>: Sometimes, it takes a quite larger number of iterations to achieve the equlibrium state.<br/><br/>
