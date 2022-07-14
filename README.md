@@ -1,6 +1,6 @@
 # The Schelling Model of Segregation
 Implementation of the Schelling’s model of global patterns of spatial segregation evolved from the effect of homophily operating at a local level.
-App Link- [https://omegaconstant-the-schelling-model-of-segregation-file-wkvya9.streamlitapp.com/](https://omegaconstant-the-schelling-model-of-segregation-file-wkvya9.streamlitapp.com/)
+<br/>App Link- [https://omegaconstant-the-schelling-model-of-segregation-file-wkvya9.streamlitapp.com/](https://omegaconstant-the-schelling-model-of-segregation-file-wkvya9.streamlitapp.com/)
 ## Homophily
 - <strong>Definition</strong>: Homophily (origin: greek -- homós: 'same, common' & philía: 'friendship, love') can be defined as a sociological tendency of individuals to associate and bond with similar others, like based on parameters such as: race & ethnicity or sex or age or religion or interests & hobbies or education, occupation, organizational role and social class or may be the combination of multiple such factors etc. It provides us with a first, fundamental illustration of how a network’s surrounding contexts can drive the formation of its links & how in general the network would evolve over time.
 - <strong>Mechanisms Underlying Homophily</strong>:
