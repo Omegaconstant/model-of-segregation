@@ -1,6 +1,6 @@
-# The Schelling Model of Segregation
+# Schelling Model of Segregation
 
-Implementation of the Schelling’s model of global patterns of spatial segregation evolved from the effect of homophily operating at a local level.
+Implementation of Schelling’s model of global patterns of spatial segregation evolved from the effect of homophily operating at a local level.
 
 [App Link](https://omegaconstant-the-schelling-model-of-segregation-file-wkvya9.streamlitapp.com/)
 
